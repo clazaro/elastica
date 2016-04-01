@@ -29,6 +29,3 @@ The paper may be downloaded [here](https://www.researchgate.net/profile/C_Lazaro
 
 * __2DRodFF7.ipynb__
 -- Form finding of planar structures with flexible rods and ties/struts
-
-
-Comentarios prueba
