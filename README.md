@@ -9,23 +9,23 @@ The paper may be downloaded [here](https://www.researchgate.net/profile/C_Lazaro
 
 ### Files
 
-* 2DRodFF1.ipynb
-Initial remarks. Static invariants of the planar elastica. Representation of orbits. Numerical solution of the equilibrium equations (IVP) using a splitting method. Numerical computation of the elastica as a discrete curve
+* __2DRodFF1.ipynb__
+-- Initial remarks. Static invariants of the planar elastica. Representation of orbits. Numerical solution of the equilibrium equations (IVP) using a splitting method. Numerical computation of the elastica as a discrete curve
 
-* 2DRodFF2.ipynb
-Relation between total energy, force and distance between elastica end sections
+* __2DRodFF2.ipynb__
+-- Relation between total energy, force and distance between elastica end sections
 
-* 2DRodFF3.ipynb
-Classical planar force density algorithm
+* __2DRodFF3.ipynb__
+-- Classical planar force density algorithm
 
-* 2DRodFF4.ipynb
-Relation between end distance and arc-length
+* __2DRodFF4.ipynb__
+-- Relation between end distance and arc-length
 
-* 2DRodFF5.ipynb
-Exact solution of the elastica. Relation between section distance and section parameter. Form finding algorithm of a simple rod.
+* __2DRodFF5.ipynb__
+-- Exact solution of the elastica. Relation between section distance and section parameter. Form finding algorithm of a simple rod.
 
-* 2DRodFF6.ipynb
-Form finding of planar flexible rods. Complex force densities. Form finding tool for a simple rod.
+* __2DRodFF6.ipynb__
+-- Form finding of planar flexible rods. Complex force densities. Form finding tool for a simple rod.
 
-* 2DRodFF7.ipynb
-Form finding of planar structures with flexible rods and ties/struts
+* __2DRodFF7.ipynb__
+-- Form finding of planar structures with flexible rods and ties/struts
